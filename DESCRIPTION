@@ -24,3 +24,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 Imports: 
     gt
+URL: https://github.com/ONSV/onsvtables
+BugReports: https://github.com/ONSV/onsvtables/issues
