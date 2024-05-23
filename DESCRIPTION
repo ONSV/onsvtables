@@ -1,6 +1,6 @@
 Package: onsvtables
 Title: National Road Safety Observatory (ONSV) styles for 'gt' tables
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
   c(person(
     given = c("João", "Pedro", "Melani"),
@@ -24,5 +24,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 Imports: 
     gt
-URL: https://github.com/ONSV/onsvtables
+URL: https://github.com/ONSV/onsvtables, https://onsv.github.io/onsvtables/
 BugReports: https://github.com/ONSV/onsvtables/issues
