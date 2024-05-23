@@ -1,5 +1,5 @@
 Package: onsvtables
-Title: National Road Safety Observatory (ONSV) styles for 'gt' tables
+Title: National Road Safety Observatory (ONSV) Styles for 'gt' Tables
 Version: 0.1.0
 Authors@R: 
   c(person(
@@ -16,8 +16,8 @@ Authors@R:
     comment = c(ORCID = "0000-0003-0550-4251")
   ),
   person("ONSV - National Road Safety Observatory", role = c("cph", "fnd")))
-Description: The package includes functions for customizing
-  HTML tables from the 'gt' package to the ONSV style.
+Description: Wrapper functions for customizing HTML 
+  tables from the 'gt' package to the ONSV style.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

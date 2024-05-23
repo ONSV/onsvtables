@@ -8,8 +8,8 @@
 [![R-CMD-check](https://github.com/ONSV/onsvtables/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ONSV/onsvtables/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-`onsvtables` is a package that provides a function for customizing `gt`
-tables with the [National Road Safety Observatory
+The `onsvtables` package provides a function for customizing `gt` tables
+with the [National Road Safety Observatory
 (ONSV)](https://www.onsv.org.br/) style.
 
 ## Installation
@@ -53,14 +53,14 @@ citation("onsvtables")
 #> To cite package 'onsvtables' in publications use:
 #> 
 #>   Saraiva JPM, Santos PAB (2024). _onsvtables: National Road Safety
-#>   Observatory (ONSV) styles for 'gt' tables_.
+#>   Observatory (ONSV) Styles for 'gt' Tables_.
 #>   https://github.com/ONSV/onsvtables,
 #>   https://onsv.github.io/onsvtables/.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Manual{,
-#>     title = {onsvtables: National Road Safety Observatory (ONSV) styles for 'gt' tables},
+#>     title = {onsvtables: National Road Safety Observatory (ONSV) Styles for 'gt' Tables},
 #>     author = {João Pedro Melani Saraiva and Pedro Augusto Borges Santos},
 #>     year = {2024},
 #>     note = {https://github.com/ONSV/onsvtables, https://onsv.github.io/onsvtables/},

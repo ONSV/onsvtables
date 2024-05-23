@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 [![R-CMD-check](https://github.com/ONSV/onsvtables/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ONSV/onsvtables/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-`onsvtables` is a package that provides a function for customizing `gt` tables with the [National Road Safety Observatory (ONSV)](https://www.onsv.org.br/) style.
+The `onsvtables` package provides a function for customizing `gt` tables with the [National Road Safety Observatory (ONSV)](https://www.onsv.org.br/) style.
 
 ## Installation
 
