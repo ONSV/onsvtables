@@ -29,6 +29,12 @@ You can install the latest release of `onsvtables` from CRAN with:
 install.packages("onsvtables")
 ```
 
+Or the development version:
+
+``` r
+devtools::install_github("jotasaraiva/onsvtables")
+```
+
 ## Example
 
 This is a basic example which shows you how to solve a common problem:
