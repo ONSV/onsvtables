@@ -47,3 +47,11 @@ tbl_onsv <-
   tab_onsv()
 ```
 
+### Citation
+
+This package can be cited as follows:
+
+```{r}
+citation("onsvtables")
+```
+
