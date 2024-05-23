@@ -17,7 +17,7 @@ Authors@R:
   ),
   person("ONSV - National Road Safety Observatory", role = c("cph", "fnd")))
 Description: The package includes functions for customizing
-  HTML tables  from the 'gt' package to the ONSV styles.
+  HTML tables from the 'gt' package to the ONSV style.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

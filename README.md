@@ -14,12 +14,10 @@ tables with the [National Road Safety Observatory
 
 ## Installation
 
-You can install the development version of `onsvtables` from
-[GitHub](https://github.com/) with:
+You can install the latest release of `onsvtables` from CRAN with:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("ONSV/onsvtables")
+install.packages("onsvtables")
 ```
 
 ## Example
@@ -46,11 +44,9 @@ This package can be cited as follows:
 
 ``` r
 citation("onsvtables")
-#> Warning in citation("onsvtables"): could not determine year for 'onsvtables'
-#> from package DESCRIPTION file
 #> To cite package 'onsvtables' in publications use:
 #> 
-#>   Saraiva JPM, Santos PAB (????). _onsvtables: National Road Safety
+#>   Saraiva JPM, Santos PAB (2024). _onsvtables: National Road Safety
 #>   Observatory (ONSV) styles for 'gt' tables_.
 #>   https://github.com/ONSV/onsvtables,
 #>   https://onsv.github.io/onsvtables/.
@@ -60,6 +56,7 @@ citation("onsvtables")
 #>   @Manual{,
 #>     title = {onsvtables: National Road Safety Observatory (ONSV) styles for 'gt' tables},
 #>     author = {João Pedro Melani Saraiva and Pedro Augusto Borges Santos},
+#>     year = {2024},
 #>     note = {https://github.com/ONSV/onsvtables, https://onsv.github.io/onsvtables/},
 #>   }
 ```
